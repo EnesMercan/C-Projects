@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/enesmercan/CLionProjects/dosyaOkumaTerminalden/main.c
+stdio.h
+-
+stdlib.h
+-
+ctype.h
+-
+
