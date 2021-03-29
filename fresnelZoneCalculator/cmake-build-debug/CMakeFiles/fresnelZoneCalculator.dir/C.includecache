@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/enesmercan/CLionProjects/fresnelZoneCalculator/fresnel.c
+fresnel.h
+/Users/enesmercan/CLionProjects/fresnelZoneCalculator/fresnel.h
+math.h
+-
+
+/Users/enesmercan/CLionProjects/fresnelZoneCalculator/fresnel.h
+
+/Users/enesmercan/CLionProjects/fresnelZoneCalculator/main.c
+stdio.h
+-
+fresnel.h
+/Users/enesmercan/CLionProjects/fresnelZoneCalculator/fresnel.h
+
